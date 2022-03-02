@@ -8,7 +8,7 @@ import PortalViewControls from './PortalViewControls';
 import {
   portals,
   quests
-} from '../../data/mockPortals.js';
+} from './data/mockPortals.js';
 import Layout from 'antd/lib/layout/layout';
 
 const { TabPane } = Tabs;

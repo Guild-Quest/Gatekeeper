@@ -1,6 +1,6 @@
 import Head from 'next/head'
 import styles from '../styles/Home.module.css'
-import PortalViewer from './components/PortalViewer'
+import PortalViewer from '../components/PortalViewer'
 import { Provider } from 'react-redux'
 import { createStore } from 'redux'
 

@@ -3,7 +3,7 @@ import PortalCarousel from './PortalCarousel';
 import G6 from '@antv/g6';
 import {
   portals,
-} from '../../data/mockPortals.js';
+} from './data/mockPortals.js';
 const toolbar = new G6.ToolBar();
 
 

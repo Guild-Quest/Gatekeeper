@@ -3,7 +3,7 @@ import { Row, Col, Table, Avatar, Tabs, Layout } from 'antd';
 import {
     portals,
     quests
-  } from '../../data/mockPortals.js';
+  } from './data/mockPortals.js';
 
   const { TabPane } = Tabs;
 
